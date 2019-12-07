@@ -1,2 +1,5 @@
 # hello-world
-This is my first repository
+
+Hi Humans
+
+hellomarkhui is here, I like javascript and I want to learn it with you.
